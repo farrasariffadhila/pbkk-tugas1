@@ -8,6 +8,6 @@
 <img width="1510" alt="image" src="https://github.com/user-attachments/assets/6faedf48-6828-4afb-af3e-b5363eca80d1">
 
 
-#### - Sebagai tambahan saya menambahkan sebuah header section berisi tentang profil saya yang diletakkan di page about pada bagian bawah halaman
+#### - Sebagai tambahan saya menambahkan sebuah header section dari tailwind yang berisi tentang profil saya yang diletakkan di page about pada bagian bawah halaman
 
 <img width="1512" alt="image" src="https://github.com/user-attachments/assets/507dc19a-3795-4e70-acd0-a23f69a8e080">
