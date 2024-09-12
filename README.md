@@ -5,7 +5,7 @@
 
 <img width="1508" alt="image" src="https://github.com/user-attachments/assets/87c30d77-29cb-4bad-9c7f-f14c83f4e255">
 
-<img width="1512" alt="image" src="https://github.com/user-attachments/assets/bc2e58f8-80f7-4bcc-ad8e-0d0a2b844687">
+<img width="1510" alt="image" src="https://github.com/user-attachments/assets/6faedf48-6828-4afb-af3e-b5363eca80d1">
 
 
 #### - Sebagai tambahan saya menambahkan sebuah header section berisi tentang profil saya yang diletakkan di page about pada bagian bawah halaman
