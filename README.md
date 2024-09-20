@@ -16,5 +16,4 @@
 
 #### - Saya juga telah membuat halaman 404 seperti yang ditunjukkan di video
 
-![alt text](image.png)
 
