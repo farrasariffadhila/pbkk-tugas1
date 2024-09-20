@@ -11,3 +11,10 @@
 #### - Sebagai tambahan saya menambahkan sebuah header section dari tailwind yang berisi tentang profil saya yang diletakkan di page about pada bagian bawah halaman
 
 <img width="1512" alt="image" src="https://github.com/user-attachments/assets/507dc19a-3795-4e70-acd0-a23f69a8e080">
+
+### Melanjutkan tutorial laravel View data dan model
+
+#### - Saya juga telah membuat halaman 404 seperti yang ditunjukkan di video
+
+![alt text](image.png)
+
