@@ -16,4 +16,5 @@
 
 #### - Saya juga telah membuat halaman 404 seperti yang ditunjukkan di video
 
+<img width="1509" alt="image" src="https://github.com/user-attachments/assets/916d9d5d-9823-4705-8d57-3e5ac3d89e1a">
 
