@@ -18,3 +18,10 @@
 
 <img width="1509" alt="image" src="https://github.com/user-attachments/assets/916d9d5d-9823-4705-8d57-3e5ac3d89e1a">
 
+### Melanjutkan tutorial laravel Database
+
+#### - Saya membuat database posts yang ada ditutorial menggunakan mysql dan GUI phpmyadmin 
+
+<img width="1512" alt="image" src="https://github.com/user-attachments/assets/96299f7b-81c1-46d3-9d16-fc5a0f015de6">
+
+    Berisi database default laravel dan table posts seperti yang ada di tutorial
