@@ -24,4 +24,4 @@
 
 <img width="1512" alt="image" src="https://github.com/user-attachments/assets/96299f7b-81c1-46d3-9d16-fc5a0f015de6">
 
-    Berisi database default laravel dan table posts seperti yang ada di tutorial
+ ##### Berisi database default laravel dan table posts seperti yang ada di tutorial
