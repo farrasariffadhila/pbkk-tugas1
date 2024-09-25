@@ -18,10 +18,18 @@
 
 <img width="1509" alt="image" src="https://github.com/user-attachments/assets/916d9d5d-9823-4705-8d57-3e5ac3d89e1a">
 
-### Melanjutkan tutorial laravel Database
+### Melanjutkan tutorial laravel Database dan Eloquent ORM
 
 #### - Saya membuat database posts yang ada ditutorial menggunakan mysql dan GUI phpmyadmin 
 
 <img width="1512" alt="image" src="https://github.com/user-attachments/assets/96299f7b-81c1-46d3-9d16-fc5a0f015de6">
 
  ##### Berisi database default laravel dan table posts seperti yang ada di tutorial
+
+#### - Saya mengikuti tutorial Eloquent ORM
+
+<img width="713" alt="image" src="https://github.com/user-attachments/assets/2f4dea98-c653-4d20-ab3d-68a2c0fd58a3">
+
+<img width="1030" alt="image" src="https://github.com/user-attachments/assets/7ca0c962-e740-4dc0-8d51-e7181b2b463a">
+
+<img width="747" alt="image" src="https://github.com/user-attachments/assets/ded180ff-4994-4f87-9bbf-5b0693f74917">
