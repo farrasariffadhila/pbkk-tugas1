@@ -25,7 +25,7 @@
 <img width="1512" alt="image" src="https://github.com/user-attachments/assets/96299f7b-81c1-46d3-9d16-fc5a0f015de6">
 
  ##### Berisi database default laravel dan table posts seperti yang ada di tutorial
- 
+
 #### - Saya mengikuti tutorial Eloquent ORM
 
 <img width="713" alt="image" src="https://github.com/user-attachments/assets/2f4dea98-c653-4d20-ab3d-68a2c0fd58a3">
@@ -36,12 +36,6 @@
 
 
  ### Melanjutkan tutorial Model Factories dan Eloquent Relationship
-
-![alt text](images/EloquentRelationship.png)
-
-![alt text](images/BlogEloquent.png)
-
-![alt text](images/ArticlesEloquent.png)
 
  #### Factory sudah berjalan dan diberi relationship seperti di tutorial
 
