@@ -37,5 +37,11 @@
 
  ### Melanjutkan tutorial Model Factories dan Eloquent Relationship
 
+<img width="952" alt="EloquentRelationship" src="https://github.com/user-attachments/assets/6efeaadc-d830-47ad-bc46-de597bad830f">
+
+<img width="1512" alt="BlogEloquent" src="https://github.com/user-attachments/assets/53c91788-1a92-4488-8dda-3f8e0b2364c5">
+
+<img width="1512" alt="ArticlesEloquent" src="https://github.com/user-attachments/assets/45418d13-5a64-4838-ab56-3bc25e560a7f">
+
  #### Factory sudah berjalan dan diberi relationship seperti di tutorial
 
